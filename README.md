@@ -1,2 +1,3 @@
 Slider-Plugin
 =============
+> Coming Soon
